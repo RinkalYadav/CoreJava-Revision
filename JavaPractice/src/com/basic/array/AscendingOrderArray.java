@@ -25,6 +25,7 @@ public static void main(String[] args) {
 				a[i]=a[j];
 				a[j]=tmp;
 			}
+			
 		}
 	}
 	System.out.println();
