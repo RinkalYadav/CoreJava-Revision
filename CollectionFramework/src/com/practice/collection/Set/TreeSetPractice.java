@@ -2,7 +2,7 @@ package com.practice.collection.Set;
 
 import java.util.TreeSet;
 
-public class TreeHashSetPractice {
+public class TreeSetPractice {
 public static void main(String[] args) {
 	TreeSet<Integer> set=new TreeSet<>();
 	set.add(20);
