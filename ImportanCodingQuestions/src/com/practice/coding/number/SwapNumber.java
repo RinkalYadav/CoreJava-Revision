@@ -5,9 +5,9 @@ public static void main(String[] args) {
 	int a=10;
 	int b=20;
 	System.out.println("Before swaping a ="+a+" and b = "+b);
-	int sum=a+b;
-	b=sum-b;
-	a=sum-a;
+	a=a+b;
+	b=a-b;
+	a=a-b;
 	System.out.println("Before swaping a ="+a+" and b = "+b);
 	
 }
