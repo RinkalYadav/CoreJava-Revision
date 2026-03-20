@@ -1,6 +1,6 @@
 package com.practice.coding.factorial;
 
-public class SumOfNNumber {
+public class NaturalNumber {
 
 	static void print(int n) {
 		if(n==0) return;
