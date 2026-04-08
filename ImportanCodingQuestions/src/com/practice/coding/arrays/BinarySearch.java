@@ -42,6 +42,6 @@ public static void main(String[] args) {
 	if(!found) {
 		System.out.println("Item not found");
 	}
-	
+	sc.close();
 }
 }
